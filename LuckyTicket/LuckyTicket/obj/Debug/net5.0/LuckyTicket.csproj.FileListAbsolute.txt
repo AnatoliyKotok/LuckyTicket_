@@ -1,0 +1,16 @@
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.exe
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.deps.json
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.dll
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\ref\LuckyTicket.dll
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\bin\Debug\net5.0\LuckyTicket.pdb
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.dll
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\ref\LuckyTicket.dll
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.pdb
+C:\Users\Anatoliy\source\repos\LuckyTicket\LuckyTicket\obj\Debug\net5.0\LuckyTicket.genruntimeconfig.cache
